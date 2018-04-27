@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/archon21/wikistack/issues"
   },
-  "homepage": "https://github.com/archon21/wikistack#readme"
+  "homepage": "https://github.com/archon21/wikistack#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
 }
